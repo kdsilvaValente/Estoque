@@ -11,14 +11,14 @@ import Dashboard from "./Pages/Dashboard/Dashboard";
 function Routepath() {
   return (
     <Router>
-      <ul>
+      {/* <ul>
         <li>
           <Link to="/">Login</Link>
         </li>
         <li>
           <Link to="/Pagina-inicial">DashBoard</Link>
         </li>
-      </ul>
+      </ul> */}
 
       <Routes>
         <Route path="/" Component={Login} />
