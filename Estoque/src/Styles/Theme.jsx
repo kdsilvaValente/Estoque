@@ -4,14 +4,13 @@ import PropTypes from "prop-types";
 // theme.js
 export const theme = {
   colors: {
-    primary: "#007bff",
-    secondary: "#6c757d",
-    success: "#28a745",
-    danger: "#dc3545",
+    primary: "#6CE0BB",
+    secondary: "#04151F",
+    fontprimary: "#000000 ",
+    fontsecondary: "#FFFFFF",
   },
   fonts: {
-    body: "Arial, sans-serif",
-    heading: "Roboto, sans-serif",
+    body: "Inter, sans-serif",
   },
 };
 
